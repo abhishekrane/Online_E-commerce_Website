@@ -1,0 +1,14 @@
+use jadrn051;
+
+drop table if exists racer;
+
+create table report(
+    id int AUTO_INCREMENT PRIMARY KEY,    
+    sku varchar(50) NOT NULL,
+    quantity varchar(50) ,
+    date varchar(50) NOT NULL
+    ); 
+    
+   
+
+
