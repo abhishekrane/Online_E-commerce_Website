@@ -1,3 +1,2 @@
-Designed by 365BOOTSTRAP
-Website : https://www.365bootstrap.com
-Contact Form Ready to use - Open file contact.php and change your email.
+#E-Commerce Website
+Developed an E-commerce website which allows customers to browse various product offerings and purchase them.
