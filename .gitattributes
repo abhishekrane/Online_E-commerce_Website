@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 *.css linguist-language=Perl
+*.jpg linguist-language=Perl
